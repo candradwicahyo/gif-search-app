@@ -4,8 +4,6 @@ dibuat dengan menggunakan html, css dan javascript. program ini berguna untuk ka
 
 cara untuk mendownloadnya adalah dsngan cara menyalin link gif tersebut dan tempelkan di url lalu tekan enter. dan setelah itu tekan titik tiga dibagian gif atau video dan pilih opsi download. selesai
 
-kode sudah saya sertakan dengan komentar supaya kalian para programmer pemula bisa mempelajarinya.
-
 ## dibuat dengan berikut
 
 * html
