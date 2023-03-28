@@ -1,6 +1,8 @@
 # gif search app
 
-dibuat dengan menggunakan html, css dan javascript. program ini berguna untuk kalian yang sedang ingin melihat atau mendownload sebuah gif sesuai kemauan kalian. cara untuk mendownloadnya adalah dsngan cara menyalin link gif tersebut dan tempelkan di url dan tekan titik tiga dibagian gif atau video dan download. selesai
+dibuat dengan menggunakan html, css dan javascript. program ini berguna untuk kalian yang sedang ingin melihat atau mendownload sebuah gif sesuai kemauan kalian. 
+
+cara untuk mendownloadnya adalah dsngan cara menyalin link gif tersebut dan tempelkan di url lalu tekan enter. dan setelah itu tekan titik tiga dibagian gif atau video dan pilih opsi download. selesai
 
 kode sudah saya sertakan dengan komentar supaya kalian para programmer pemula bisa mempelajarinya.
 
